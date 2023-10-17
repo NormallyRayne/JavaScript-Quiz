@@ -37,7 +37,6 @@ https://normallyrayne.github.io/JavaScript-Quiz/
 - Get immediate feedback on correct and incorrect answers.
 - A timer counts down as you progress through the quiz.
 - Save your score with initials at the end of the quiz.
-- View high scores from previous players.
 
 ## Installation
 
