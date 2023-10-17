@@ -27,9 +27,8 @@ The JavaScript Quiz is a web-based quiz application built with HTML, CSS, and Ja
 
 ## Demo
 
-Provide a link to a live demo or a GIF/video showcasing your application in action.
+https://normallyrayne.github.io/JavaScript-Quiz/
 
-![Demo GIF](demo.gif)
 
 ## Features
 
